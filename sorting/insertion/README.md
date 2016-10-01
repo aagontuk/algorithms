@@ -4,6 +4,7 @@ T(n) =
 
 ### Sudo-code ###
 
+```
 INSERTION-SORT(A, n)	// A[1..n]
 	for j <-- 2 to n
 		
@@ -15,3 +16,4 @@ INSERTION-SORT(A, n)	// A[1..n]
 			i <-- i - 1
 		
 		A[i + 1] <-- key
+```
